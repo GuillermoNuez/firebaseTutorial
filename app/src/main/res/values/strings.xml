@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase xml</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="prefs_file">firebase_prefs</string>
+    <string name="default_web_client_id">559303677677-642orm4fr44lh1le4bgonsi5uo6sa7bc.apps.googleusercontent.com</string>
+
+</resources>
